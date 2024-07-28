@@ -1,4 +1,6 @@
-# create-svelte
+# Immich Web
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/807a13bf-7222-4c08-857f-8652af28c76e/deploy-status)](https://app.netlify.com/sites/eclectic-meerkat-8b251f/deploys)
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
